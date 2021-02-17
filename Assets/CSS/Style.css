@@ -102,6 +102,10 @@ p {
     font-size: 36px;
 }
 
+h2 {
+    text-decoration: underline;
+  }
+
 /* This benefit section applies to the aside. The aside is to the right of the content section */
 
 .benefits {
@@ -131,7 +135,6 @@ p {
     max-width: 150px;
 }
 
-
 footer {
     padding: 30px;
     clear: both;
@@ -144,6 +147,6 @@ footer h2 {
 }
 
 .portfolio-images {
-    float: left;
     padding: 5px;
+    float:left;
 }
